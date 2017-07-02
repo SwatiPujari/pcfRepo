@@ -1,0 +1,164 @@
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.exe.config
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.exe
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.pdb
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Data.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Data.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.AboutProfitCashflow.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.CompanyMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.LandStatus.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.Properties.Resources.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fInterestRateHistory.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fListCompanies.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fUnitInterestMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.DevelopmentMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.DivisionMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.ErpLogin.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPlotTypeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fB4SiteCodeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fCFOtherExpense.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fBuildTypeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fLandTypeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPurchaseTypeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fLocationMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fCFOtherIncome.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fBalconyTerrMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fUnitCategoryTypeMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fViewMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fAccPeriod.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fAspectMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fGarageParkMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPcfMain.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.GroupMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.NewPassword.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.OperatingCompanyMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.RegionMaster.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.SelCompany.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.SiteSetup.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.Stacks.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.StackStatus.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.WaitForm1.resources
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.csproj.GenerateResource.Cache
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.exe.licenses
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.exe
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.pdb
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.csprojResolveAssemblyReference.cache
+D:\SourceCode\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.StackFunction.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.exe.config
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.exe
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\bin\Debug\Xpedeon.ProfitCashflow.pdb
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.AboutProfitCashflow.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.CompanyMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.LandStatus.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.Properties.Resources.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fInterestRateHistory.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fListCompanies.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fUnitInterestMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.DevelopmentMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.DivisionMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.ErpLogin.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPlotTypeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fB4SiteCodeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fCFOtherExpense.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fBuildTypeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fLandTypeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPurchaseTypeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fLocationMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fCFOtherIncome.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fBalconyTerrMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fUnitCategoryTypeMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fViewMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fAccPeriod.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fAspectMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fGarageParkMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.fPcfMain.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.GroupMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.NewPassword.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.OperatingCompanyMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.RegionMaster.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.SelCompany.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.SiteSetup.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.StackFunction.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.Stacks.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.StackStatus.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.WaitForm1.resources
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.csproj.GenerateResource.Cache
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.exe.licenses
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.exe
+F:\Work\Source Code\Algorithms\Backup\XpedeonPCF\Xpedeon.ProfitCashflow\obj\Debug\Xpedeon.ProfitCashflow.pdb
